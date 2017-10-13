@@ -18,7 +18,7 @@ intercept SCORM statements, convert them to valid xAPI statements, and send them
 ```
 2) Initialize the interceptor
 ```javascript
-xapiInterceptor.init({ /* config goes here */});
+scormInterceptor.init({ /* config goes here */});
 ```
 
 ## Table of Contents
